@@ -179,7 +179,7 @@ void userEncoding() {
     encodeBuffer(msg, decodeFile);
     return;
 }
-
+// seperate interfaces
 void encode() {
     int type;
     encodeMsgMenu();
